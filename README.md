@@ -1,7 +1,5 @@
 # Student Performance Prediction
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Student+Performance+Prediction) <!-- Replace with an actual banner image if available -->
-
 ## Overview
 
 This project is an end-to-end machine learning application designed to predict student performance (test scores) based on various demographic and academic factors. The model analyzes how variables such as gender, ethnicity, parental level of education, lunch type, and test preparation courses impact students' math, reading, and writing scores.
